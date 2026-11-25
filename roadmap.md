@@ -1,0 +1,14 @@
+- [x] Modernize arrows and shared buttons, preserving existing text and links.
+- [x] Add seven red painted handprints to Play on Roblox and emphasize Join Discord.
+- [x] Add restrained glass and horror textures to information and developer panels.
+- [x] Verify mobile and desktop interactions and save changes.
+- [x] Improve small-screen buttons, glass panels, and monster framing.
+- [x] Add accessible hover and scroll motion plus a 300ms opening scare and fade.
+- [x] Verify mobile, desktop, and reduced-motion flows and save changes.
+- [x] Turn the four creature traits into horizontal swipeable cards.
+- [x] Add three chapters; reveal Asylum rooms only on selection and blur II / III.
+- [x] Distress shared action buttons and verify chapter and carousel interactions.
+- [x] Replace arrow navigation with a scroll-driven creature-card stack.
+- [x] Add blood-stained unfinished chapters and animated room disclosure.
+- [ ] Smooth page scrolling and enrich developer profiles with sample details and links.
+- [ ] Verify animations, profiles, and reduced-motion behavior on mobile and desktop.- [x] Admin panel at /admin to edit all content, pictures, developers, chapters and extra sections with live preview.
